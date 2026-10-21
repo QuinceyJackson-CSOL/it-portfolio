@@ -2,7 +2,7 @@
 
 > Real problems I've fixed, systems I've built, and security work I've done. Everything is written as a case study: **the problem → how I diagnosed it → the fix → how I prevented it from happening again.**
 
-**M.S. Cybersecurity Operations & Leadership (University of San Diego, 2024)** · **CompTIA Security+** · IT Operations at a consumer company (Okta, Microsoft 365, Google Workspace, macOS/Windows endpoints, ITSM)
+**M.S. Cybersecurity Operations & Leadership (University of San Diego, 2024)** · **CompTIA Security+** · IT Specialist at a consumer company (Okta, Microsoft 365, Google Workspace, macOS/Windows endpoints, ITSM)
 
 **Target roles:** Systems Administrator · Systems Engineer · Cybersecurity Analyst · Cybersecurity Engineer
 
