@@ -1,0 +1,6 @@
+#!/bin/sh
+# Blocks a commit if staged files contain sensitive data.
+files=$(git diff --cached --name-only --diff-filter=ACM)
+[ -z "$files" ] && exit 0
+python3 tools/sanitize_check.py $files || {
+  echo "Commit blocked by sanitize_check.py. Fix or review the findings above."; exit 1; }
