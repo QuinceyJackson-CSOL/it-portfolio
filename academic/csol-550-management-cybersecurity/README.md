@@ -4,7 +4,7 @@
 
 Running security as a business function: audit and compliance, acquisitions and vendor management, and planning for an organization's information systems security.
 
-**Skills & frameworks:** Compliance auditing vs. assessment, FISMA, FIPS 199, NIST guidance, CISA auditors, penetration testing and red teams, Request for Proposal (RFP) writing, vendor risk and evaluation criteria
+**Skills & frameworks:** Compliance auditing vs. assessment, FISMA, FIPS 199, NIST guidance, CISA auditors, penetration testing and red teams, Request for Proposal (RFP) writing, vendor risk and evaluation criteria, HIPAA and PCI DSS, business continuity (BCP) vs. disaster recovery (DRP), DRaaS
 
 ---
 
@@ -48,10 +48,49 @@ Running security as a business function: audit and compliance, acquisitions and 
 
 ---
 
+## 3. Ethics & compliance memo: HIPAA and PCI DSS gaps
+
+*Fictional health-software company ("BioKidz") that had just signed a contract with a large national hospital system.*
+
+**Objective:** Tell leadership, candidly, where the company's growth had outrun its HIPAA and PCI DSS controls, and what to fix before a breach or a fine.
+
+**What I did**
+- Identified two urgent gaps:
+  - **Third-party processing:** customer card transactions were handled by an offshore development team chosen to cut costs. I raised the known risk of developers leaving backdoors that bypass normal security.
+  - **Physical storage:** paper copies of patients' payment and health information sat in a storage room at the only office, and every employee's badge opened every door.
+- Noted the legal side of growth: the company now served patients in many states, so California-only consumer protections no longer covered its obligations.
+- Framed the fixes as an ethical duty, not just a compliance one: knowingly cutting costs or ignoring a known risk is unethical even if no damage has happened yet.
+
+**Key findings / outputs**
+- Recommendations: move the paper records to secured digital storage, limit the storage room to staff who need it for their jobs until then, replace the offshore provider, and build compliance for every state the company serves.
+
+**Takeaways**
+- Controls that were adequate for a small company can quietly become violations after a big contract. Growth is a trigger for re-checking compliance.
+
+---
+
+## 4. Disaster recovery & continuity management briefing
+
+*Slide briefing written as CISO of a fictional ed-tech company serving Southern California school districts.*
+
+**Objective:** Get leadership to plan for disruption (breaches, natural disasters, and acts of terror) before it happens.
+
+**What I did**
+- Opened from an "assume we will be hacked" position: attack surfaces keep growing, so the company has to analyze its own surface to prioritize vulnerabilities and build cyber resilience.
+- Separated the two plans that are often confused: the **BCP** keeps normal business running and limits operational downtime; the **DRP** restores data access and infrastructure and limits the impact of technology failures.
+- Recommended keeping backups off-site rather than in the same building, a flexible master plan, and practicing the DRP with all staff.
+- Evaluated cloud-hosted recovery (DaaS/DRaaS): replicating and hosting servers off-site through a third party, with the cloud data encrypted, and pay-as-needed pricing that suits a small company.
+
+**Takeaways**
+- Never keep all your information at one site. Continuity is about not stopping; recovery is about restoring correctly.
+
+---
+
 ## Interview talking points
 - I've written a full RFP that puts security requirements (insurance, no subcontracting, pre-release testing, off-site backups, log handover) directly into vendor selection.
 - I can explain the difference between an audit and an assessment, and list FISMA's core documentation.
 - I understand when to use auditors, pen testers, or red teams.
+- I can explain the difference between a business continuity plan and a disaster recovery plan, and why off-site or DRaaS backups belong in both.
 - I think about security in budget and schedule terms, not just technical ones.
 
 **ePortfolio:** [Management & Cybersecurity](https://qjacksoncsol23.weebly.com/management--cybersecurity.html)

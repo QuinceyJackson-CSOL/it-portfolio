@@ -18,11 +18,11 @@ These are summaries of my graduate coursework, written in my own words with the 
 
 | Course | Highlights |
 |---|---|
-| [CSOL 500 · Cybersecurity Fundamentals](cybersecurity-fundamentals/) | Cloud security plan for moving PHI to SaaS (CASB, privileged-account monitoring) |
+| [CSOL 500 · Cybersecurity Fundamentals](cybersecurity-fundamentals/) | Cloud security plan for moving PHI to SaaS (CASB, NIST CSF + HIPAA mapping); threat survey; backup vs. DR analysis; K-12 remote-learning and app-security recommendations |
 | [CSOL 510 · Applied Cryptography](csol-510-applied-cryptography/) | BitLocker/TPM controls report for HIPAA data (group); CIA categorization; classical cryptanalysis |
 | [CSOL 520 · Security Architecture](csol-520-security-architecture/) | SABSA layers applied to a healthcare office |
-| [CSOL 540 · Cyber Law & Operational Policy](csol-540-cyber-law-policy/) | COPPA compliance recommendations; SolarWinds duty-of-care analysis |
-| [CSOL 550 · Management & Cybersecurity](csol-550-management-cybersecurity/) | Security-focused RFP for a training vendor; audit vs. assessment |
+| [CSOL 540 · Cyber Law & Operational Policy](csol-540-cyber-law-policy/) | COPPA compliance recommendations; SolarWinds and Bangladesh Bank duty-of-care analyses; Guccifer prosecution case; encryption export law; cyberlaw program |
+| [CSOL 550 · Management & Cybersecurity](csol-550-management-cybersecurity/) | Security-focused RFP for a training vendor; audit vs. assessment; HIPAA/PCI DSS ethics memo; BCP vs. DRP briefing |
 | [Capstone](capstone/) | Program ePortfolio with a reflection for each subject area |
 
 ## Continuing education

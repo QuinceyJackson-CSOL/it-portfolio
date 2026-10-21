@@ -69,6 +69,7 @@
 **Key findings / outputs**
 - The workaround was a **high-impact insider-risk issue**, because shared credentials undermine accountability.
 - I wrote a **POA&M** with planned milestones, control updates, follow-up dates, and points of contact. The control would be periodically reassessed until its risk could be lowered.
+- **The POA&M entry itself** (FedRAMP template, system rated High): the weakness was detected from Nessus reports showing repeated login failures for the same accounts from multiple trusted devices, evidence that new hires were borrowing coworkers' machines. The remediation was to implement **AC-2 Account Management**, with the cloud provider's account manager listed as a vendor dependency. The first milestone was zero new-hire login failures within 180 days. A later status update recorded it as on pace to finish 30 days early and set a tighter 30-day target. Risk stayed rated High and the item was marked an operational requirement, with the deviation rationale that most new hires could now get into their accounts.
 
 **Takeaways:** Users who are stuck will find a workaround, and the workaround is often the real vulnerability.
 
