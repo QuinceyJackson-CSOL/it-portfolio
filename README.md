@@ -2,7 +2,7 @@
 
 > Real problems I've fixed, systems I've built, and security work I've done. Everything is written as a case study: **the problem → how I diagnosed it → the fix → how I prevented it from happening again.**
 
-**M.S. Cybersecurity Operations & Leadership (University of San Diego, 2024)** · IT Operations at a consumer company (Okta, Microsoft 365, Google Workspace, macOS/Windows endpoints, ITSM)
+**M.S. Cybersecurity Operations & Leadership (University of San Diego, 2024)** · **CompTIA Security+** · IT Operations at a consumer company (Okta, Microsoft 365, Google Workspace, macOS/Windows endpoints, ITSM)
 
 **Target roles:** Systems Administrator · Systems Engineer · Cybersecurity Analyst · Cybersecurity Engineer
 
@@ -60,5 +60,5 @@ All enterprise work has been **anonymized** in line with [my sanitization policy
 ## Contact
 
 - Graduate ePortfolio: [qjacksoncsol23.weebly.com](https://qjacksoncsol23.weebly.com)
-- LinkedIn: _add link_
+- LinkedIn: [linkedin.com/in/qjacksonusd](https://www.linkedin.com/in/qjacksonusd/)
 - Email: qjackson0@gmail.com

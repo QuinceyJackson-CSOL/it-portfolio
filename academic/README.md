@@ -26,4 +26,5 @@ These are summaries of my graduate coursework, written in my own words with the 
 | [Capstone](capstone/) | Program ePortfolio with a reflection for each subject area |
 
 ## Continuing education
-- [Security+ (SY0-701) study notes](certification-prep/). In progress; not yet certified.
+- **CompTIA Security+** (earned) and **Google Cloud Cybersecurity Professional Certificate** (earned). My [Security+ study notes](certification-prep/) are kept as a reference.
+- CompTIA Network+ in progress.

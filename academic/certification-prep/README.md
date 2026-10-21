@@ -1,6 +1,6 @@
 # Certification Prep: CompTIA Security+ (SY0-701) Study Notes
 
-Personal study notes I keep for the CompTIA Security+ SY0-701 exam objectives. *This page describes what I studied. It does not claim the certification.*
+**Status: CompTIA Security+ earned.** These are the study notes I used for the SY0-701 exam objectives, kept as a quick reference.
 
 **Skills & frameworks:** Security+ SY0-701 objectives: network infrastructure, attack types, threat vectors, security controls, threat-intelligence standards
 
@@ -29,5 +29,5 @@ Personal study notes I keep for the CompTIA Security+ SY0-701 exam objectives. *
 I write a short, plain-language definition for each term, plus why it matters operationally (for example, why a fileless threat is hard to detect, or how a vestibule stops tailgating). The notes are a work in progress: some sections, like network access control (NAC) and controls, are still headings I'm filling in.
 
 ## Interview talking points
-- I'm studying against the current SY0-701 objectives and can explain core attack types and their defenses.
+- I passed CompTIA Security+ and can explain core attack types and their defenses.
 - I connect terms to operations: MSPs as a threat vector, zero trust, and reverse proxies as a security layer.
