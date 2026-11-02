@@ -28,6 +28,7 @@
 | [Recurring SSO lockout investigation](02-cybersecurity/recurring-sso-auth-failure-investigation/) | Cybersecurity | Sign-on policy, MFA, log analysis, ticket-pattern analysis |
 | [Scareware notification triage](02-cybersecurity/scareware-browser-notification-triage/) | Cybersecurity | Threat triage, severity criteria, user education |
 | [Using DNS to find where email lives](04-networking/email-routing-dns-mx-diagnosis/) | Networking | DNS MX/SPF, GAM, Exchange Online |
+| [IT Morning Kickoff: scheduled AI triage agent](https://github.com/QuinceyJackson-CSOL/it-morning-kickoff) | Automation · AI | AI agents, MCP connectors, prompt-injection guardrails, SLA triage |
 | [mail-provider-check](03-automation-scripting/mail-provider-check/) | Automation | Python, DNS, unit tests, CI |
 | [Pre-publish sensitive-data scanner](tools/) | Automation · Security | Python, regex, DLP concepts, git hooks |
 | [Digital forensics & IR lab series](academic/csol-590-incident-response-forensics/) | Cybersecurity · Grad | FTK Imager, Autopsy, Cellebrite, AXIOM, IR planning |
