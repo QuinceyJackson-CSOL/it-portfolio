@@ -27,4 +27,4 @@ These are summaries of my graduate coursework, written in my own words with the 
 
 ## Continuing education
 - **CompTIA Security+** (earned) and **Google Cloud Cybersecurity Professional Certificate** (earned). My [Security+ study notes](certification-prep/) are kept as a reference.
-- CompTIA Network+ in progress.
+- Okta Certified Professional in progress.
