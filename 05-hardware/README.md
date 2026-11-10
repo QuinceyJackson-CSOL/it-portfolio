@@ -4,7 +4,7 @@ The device lifecycle from ordering and imaging to repair and retirement.
 
 ## Focus areas
 - Laptop provisioning and imaging
-- Peripherals, printers, and A/V
+- Peripherals and printers (A/V has its own section: [07 · Audio / Visual](../07-audio-visual/))
 - Hardware diagnostics and repair
 - Asset tracking and secure disposal
 
