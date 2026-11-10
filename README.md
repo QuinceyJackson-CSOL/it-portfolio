@@ -18,6 +18,7 @@
 | [04 · Networking](04-networking/) | Wi-Fi, DNS, VPN, firewall and connectivity troubleshooting | SysAdmin / Security Engineer |
 | [05 · Hardware](05-hardware/) | Device lifecycle, imaging, peripherals, A/V, repairs | SysAdmin |
 | [06 · Software & Systems](06-software-systems/) | SaaS administration, MDM, licensing, application support | Systems Engineer |
+| [07 · Audio / Visual](07-audio-visual/) | A/V rentals, event sound, mixing console and wireless mic installs | Operations / Workplace Tech |
 | [Academic](academic/) | Graduate coursework and capstone work | All |
 
 ## Featured work
@@ -29,13 +30,14 @@
 | [Scareware notification triage](02-cybersecurity/scareware-browser-notification-triage/) | Cybersecurity | Threat triage, severity criteria, user education |
 | [Using DNS to find where email lives](04-networking/email-routing-dns-mx-diagnosis/) | Networking | DNS MX/SPF, GAM, Exchange Online |
 | [IT Morning Kickoff: scheduled AI triage agent](https://github.com/QuinceyJackson-CSOL/it-morning-kickoff) | Automation · AI | AI agents, MCP connectors, prompt-injection guardrails, SLA triage |
+| [A/V rentals and event sound](07-audio-visual/av-rentals-and-event-sound/) | A/V Operations | Portable PA, wireless mics, sound check, on-site support |
 | [mail-provider-check](03-automation-scripting/mail-provider-check/) | Automation | Python, DNS, unit tests, CI |
 | [Pre-publish sensitive-data scanner](tools/) | Automation · Security | Python, regex, DLP concepts, git hooks |
 | [Digital forensics & IR lab series](academic/csol-590-incident-response-forensics/) | Cybersecurity · Grad | FTK Imager, Autopsy, Cellebrite, AXIOM, IR planning |
 | [Security lab & vulnerability scanning](academic/csol-570-network-vulnerability-detection/) | Networking · Grad | Kali, Nmap, Wireshark, Nessus, OpenVAS, Kismet |
 | [NIST RMF end-to-end](academic/risk-management-nist-rmf/) | GRC · Grad | SP 800-37/53, SSP, POA&M, ATO |
 
-**Also:** [All graduate coursework](academic/) · [5 sanitized operational runbooks](runbooks/) · [How I build a knowledge base](01-basic-it-support/building-an-it-knowledge-base/) · [Outlook triage](01-basic-it-support/outlook-copy-paste-triage/) · [SSO pending-invite fix](06-software-systems/figma-sso-pending-invite/)
+**Also:** [All graduate coursework](academic/) · [6 sanitized operational runbooks](runbooks/) · [How I build a knowledge base](01-basic-it-support/building-an-it-knowledge-base/) · [Outlook triage](01-basic-it-support/outlook-copy-paste-triage/) · [SSO pending-invite fix](06-software-systems/figma-sso-pending-invite/)
 
 ## Skills matrix
 
@@ -47,7 +49,8 @@ Every skill links to work that shows it.
 | Security Operations | Scareware/phishing triage, severity and escalation criteria, access governance, sensitive-data handling | [Scareware triage](02-cybersecurity/scareware-browser-notification-triage/) · [Sanitizer](tools/) · [Sanitization policy](docs/SANITIZATION-POLICY.md) |
 | Cloud / SaaS | Microsoft 365 / Exchange Online, Google Workspace (GAM), Box, Figma, 1Password, Slack | [Distribution lists](04-networking/email-routing-dns-mx-diagnosis/) · [Runbooks](runbooks/) |
 | Networking | DNS (MX, SPF/TXT), email routing | [DNS MX diagnosis](04-networking/email-routing-dns-mx-diagnosis/) |
-| Endpoint Support | Windows & macOS, Outlook/Office, Chrome management, Microsoft Defender | [Outlook triage](01-basic-it-support/outlook-copy-paste-triage/) · [Scareware triage](02-cybersecurity/scareware-browser-notification-triage/) |
+| Endpoint Support | Windows & macOS, Kandji MDM, FileVault recovery, Outlook/Office, Chrome management, Microsoft Defender | [Outlook triage](01-basic-it-support/outlook-copy-paste-triage/) · [Scareware triage](02-cybersecurity/scareware-browser-notification-triage/) · [FileVault runbook](runbooks/macos-filevault-recovery-key.md) |
+| A/V Operations | Portable PA, UHF wireless mics, mixing consoles, signal routing, channel labeling, event sound | [Event sound](07-audio-visual/av-rentals-and-event-sound/) |
 | Scripting & Automation | Python (stdlib, argparse, regex, unittest), Bash, git hooks, GitHub Actions CI | [mail-provider-check](03-automation-scripting/mail-provider-check/) · [Sanitizer](tools/) |
 | Forensics & IR | Disk and mobile forensics, hash verification, chain of custody, IR planning | [CSOL 590](academic/csol-590-incident-response-forensics/) |
 | Vulnerability Mgmt | Nmap, Nessus, OpenVAS, Wireshark, Kismet, Kali lab | [CSOL 570](academic/csol-570-network-vulnerability-detection/) |
