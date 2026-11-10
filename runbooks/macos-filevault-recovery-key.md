@@ -6,6 +6,8 @@ for a recovery key and I don't know what that is."
 > **Trainer's note:** Read §1–§4 to work a ticket. §5 is the security checklist; don't skip it.
 > This one came out of a real ticket that was resolved the same afternoon in about a 15-minute call.
 
+**Related case study:** [FileVault lockout recovery](../01-basic-it-support/macos-filevault-lockout-recovery/)
+
 ---
 
 ## 1. Words you need first

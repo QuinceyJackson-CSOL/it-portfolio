@@ -8,7 +8,7 @@ Sanitized versions of the operational runbooks I maintain. Each one came out of 
 | Figma + Okta SSO | [figma-access-requests.md](figma-access-requests.md) | SSO app assignment, pending invites, SCIM hazards | [Pending invite behind SSO](../06-software-systems/figma-sso-pending-invite/) |
 | Microsoft 365 | [m365-distribution-lists.md](m365-distribution-lists.md) | Distribution list types, membership, synced/dynamic lists, MX check | [DNS MX diagnosis](../04-networking/email-routing-dns-mx-diagnosis/) |
 | Chrome / Edge | [browser-scam-notifications.md](browser-scam-notifications.md) | Scareware triage, severity tree, notification-permission removal | [Scareware triage](../02-cybersecurity/scareware-browser-notification-triage/) |
-| macOS + Kandji | [macos-filevault-recovery-key.md](macos-filevault-recovery-key.md) | FileVault lockout, escrowed recovery keys, identity and device verification, verbal key handoff | |
+| macOS + Kandji | [macos-filevault-recovery-key.md](macos-filevault-recovery-key.md) | FileVault lockout, escrowed recovery keys, identity and device verification, verbal key handoff | [FileVault lockout recovery](../01-basic-it-support/macos-filevault-lockout-recovery/) |
 | Outlook | [outlook-troubleshooting.md](outlook-troubleshooting.md) | Triage questions, Safe Mode, add-in bisection, Office repair | [Copy/paste triage](../01-basic-it-support/outlook-copy-paste-triage/) |
 
 > Items marked **TODO** are environment details that hadn't been confirmed when the runbook was written. I leave them visible on purpose, because a confident wrong runbook is worse than an honest incomplete one.
