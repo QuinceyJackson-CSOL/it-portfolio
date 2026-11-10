@@ -2,7 +2,7 @@
 
 The A/V side of my work: renting and running sound systems for events, and installing and
 labeling church sound gear so volunteers can run it. I run this through my own technology
-services business, **JacxSon's Essential Solutions LLC** (IT support, A/V rentals and event
+services business, **JacxSon's Essential Solutions LLC** (self-employed) (IT support, A/V rentals and event
 sound, and electronics repair).
 
 Why it's in an IT portfolio: A/V is operations work. Inventory, setup procedures, signal
