@@ -13,7 +13,7 @@ Pilates class and seminar. She needed to be heard clearly while moving and teach
 needed music playing under the class. She didn't have a sound system or anyone to run one.
 
 ## What the business offers
-My business, **JacxSon's Essential Solutions LLC**, rents A/V equipment and runs it on site:
+My business, **JacxSon's Essential Solutions LLC** (self-employed), rents A/V equipment and runs it on site:
 
 | Service | What's included |
 |---|---|
