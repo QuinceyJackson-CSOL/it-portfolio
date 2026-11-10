@@ -26,6 +26,7 @@
 | Project | Category | Skills shown |
 |---|---|---|
 | [Untangling SaaS access across an IdP and an app](06-software-systems/saas-access-two-permission-layers/) | Software · IAM | Okta provisioning, least privilege, access governance, root-cause analysis |
+| [Recovering a FileVault Mac without leaking the key](01-basic-it-support/macos-filevault-lockout-recovery/) | Basic IT · IAM | Identity proofing, device verification, MDM key escrow, secure secret handling |
 | [Recurring SSO lockout investigation](02-cybersecurity/recurring-sso-auth-failure-investigation/) | Cybersecurity | Sign-on policy, MFA, log analysis, ticket-pattern analysis |
 | [Scareware notification triage](02-cybersecurity/scareware-browser-notification-triage/) | Cybersecurity | Threat triage, severity criteria, user education |
 | [Using DNS to find where email lives](04-networking/email-routing-dns-mx-diagnosis/) | Networking | DNS MX/SPF, GAM, Exchange Online |
@@ -49,7 +50,7 @@ Every skill links to work that shows it.
 | Security Operations | Scareware/phishing triage, severity and escalation criteria, access governance, sensitive-data handling | [Scareware triage](02-cybersecurity/scareware-browser-notification-triage/) · [Sanitizer](tools/) · [Sanitization policy](docs/SANITIZATION-POLICY.md) |
 | Cloud / SaaS | Microsoft 365 / Exchange Online, Google Workspace (GAM), Box, Figma, 1Password, Slack | [Distribution lists](04-networking/email-routing-dns-mx-diagnosis/) · [Runbooks](runbooks/) |
 | Networking | DNS (MX, SPF/TXT), email routing | [DNS MX diagnosis](04-networking/email-routing-dns-mx-diagnosis/) |
-| Endpoint Support | Windows & macOS, Kandji MDM, FileVault recovery, Outlook/Office, Chrome management, Microsoft Defender | [Outlook triage](01-basic-it-support/outlook-copy-paste-triage/) · [Scareware triage](02-cybersecurity/scareware-browser-notification-triage/) · [FileVault runbook](runbooks/macos-filevault-recovery-key.md) |
+| Endpoint Support | Windows & macOS, Kandji MDM, FileVault recovery, Outlook/Office, Chrome management, Microsoft Defender | [Outlook triage](01-basic-it-support/outlook-copy-paste-triage/) · [Scareware triage](02-cybersecurity/scareware-browser-notification-triage/) · [FileVault lockout](01-basic-it-support/macos-filevault-lockout-recovery/) |
 | A/V Operations | Portable PA, UHF wireless mics, mixing consoles, signal routing, channel labeling, event sound | [Event sound](07-audio-visual/av-rentals-and-event-sound/) |
 | Scripting & Automation | Python (stdlib, argparse, regex, unittest), Bash, git hooks, GitHub Actions CI | [mail-provider-check](03-automation-scripting/mail-provider-check/) · [Sanitizer](tools/) |
 | Forensics & IR | Disk and mobile forensics, hash verification, chain of custody, IR planning | [CSOL 590](academic/csol-590-incident-response-forensics/) |
