@@ -14,5 +14,6 @@ Help desk and end-user support: account and access issues, onboarding/offboardin
 |---|---|---|---|
 | 1 | [Five questions that halve the problem: Outlook copy/paste](outlook-copy-paste-triage/) | Structured triage, fault isolation | Resolved in one triage conversation; fix ladder documented |
 | 2 | [Building an IT runbook system a new hire can work from alone](building-an-it-knowledge-base/) | Technical writing, knowledge management | Five runbooks in the first month |
+| 3 | [Locked out after a password reset: recovering a FileVault Mac without leaking the key](macos-filevault-lockout-recovery/) | Identity proofing, MDM key escrow, secure secret handling | Back at work the same afternoon; key never written down |
 
 _Each entry gets its own subfolder with a README written from the [case study template](../_templates/CASE-STUDY-TEMPLATE.md)._
